@@ -1,0 +1,1 @@
+worker: python valyuta_bot.py 
