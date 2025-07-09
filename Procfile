@@ -1,1 +1,1 @@
-worker: python valyuta_bot.py 
+worker: python main.py 
